@@ -64,8 +64,8 @@ body {
 		text-align: justify;
 	
 	}
-ul {color: orange;}
-ul li{color: orange;}
+.lists ul {color: orange;}
+.lists ul li{color: orange;}
 	
 .book details {
 	width:55%;
